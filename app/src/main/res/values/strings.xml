@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Task List</string>
+    <string name="enter_task">Enter new task name:</string>
+    <string name="enter_notes">Add notes:</string>
+    <string name="mark_completed">Mark as completed?</string>
+    <string name="mark_hidden">Hidden? (Will not show up on the task list.)</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_show">SHOW TASKS</string>
+    <string name="title_activity_show_task_list">Task List</string>
+
+</resources>

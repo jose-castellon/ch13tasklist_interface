@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Jose%20D/AndroidStudioProjects/ch13_TaskList_updated/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Jose%20D/AndroidStudioProjects/ch13_TaskList_updated/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Task List</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_show">SHOW TASKS</string>
+    <string name="enter_notes">Add notes:</string>
+    <string name="enter_task">Enter new task name:</string>
+    <string name="mark_completed">Mark as completed?</string>
+    <string name="mark_hidden">Hidden? (Will not show up on the task list.)</string>
+    <string name="title_activity_show_task_list">Task List</string>
+    <!-- From: file:/C:/Users/Jose%20D/AndroidStudioProjects/ch13_TaskList_updated/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light">
+    </style>
+</resources>
